@@ -1,48 +1,55 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&random=false&width=650&lines=building+Privex+%E2%80%94+zero+knowledge+comms;solo+dev+%40+IIT+Madras;privacy+tools.+surveillance+tools.+both.;shipping+real+products+since+age+16" alt="typing svg" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&random=false&width=650&lines=building+Privex.+zero+knowledge+comms.;solo+dev+%40+IIT+Madras;privacy+tools.+surveillance+tools.+both.;shipping+real+products+since+age+16" alt="typing" />
+
+<br/>
+
+![profile views](https://komarev.com/ghpvc/?username=Privex-chat&style=flat-square&color=67e8f9&label=profile+views)
 
 </div>
 
----
+<br/>
 
 ### `> whoami`
 
 ```
 host         Hemansh (Sonix)  ·  India  ·  18
-school       IIT Madras — CS
+school       IIT Madras, Computer Science
 building     Privex  ·  Dataship.xyz  ·  Sentinel
-origin       coding since 11. no bootcamp. just reading public code at 3AM.
-philosophy   build the lock. understand the key.
+origin       coding since 11. no bootcamp. public repos and curiosity.
+now          cryptography, privacy infrastructure, full stack
+also         VFX and video editing. After Effects. Blender. AMVs.
 ```
 
----
+<br/>
 
 ### `> ls ./projects`
 
-| project | what | status |
-|---|---|---|
-| [**Privex**](https://github.com/Privex-chat/Privex) | zero knowledge E2EE comms — not just encrypted, undetectable | `in development` |
-| [**Dataship.xyz**](https://dataship.xyz) | encrypted cloud storage, 30GB free, solo built, ~40K LOC | `live · paying users` |
-| [**Sentinel**](https://github.com/Privex-chat/sentinel) | self-hosted Discord intelligence and behavioral analytics | `live` |
-| [**Audyn**](https://github.com/Privex-chat/audyn) | real-time multiplayer music guessing platform | `live` |
+| project | what | stack | status |
+|---|---|---|---|
+| [**Privex**](https://github.com/Privex-chat/Privex) | zero knowledge E2EE. not just encrypted. undetectable. | Rust · TypeScript · Nym · PQC | `in development` |
+| [**Dataship.xyz**](https://dataship.xyz) | encrypted cloud storage. 30GB free. 40K LOC, built solo in 3 months. | Node.js · React · AES-256 | `live · paying users` |
+| [**Sentinel**](https://github.com/Privex-chat/sentinel) | self-hosted Discord intelligence and behavioral analytics | TypeScript · Discord.js | `live` |
+| [**Audyn**](https://github.com/Privex-chat/audyn) | real-time multiplayer music guessing platform | JavaScript · WebSockets | `live` |
 
----
+<br/>
 
 ### `> cat .philosophy`
 
 ```
 I build privacy tools. I also build surveillance tools.
 
-Not a contradiction. An honest read of how the internet actually works.
-Privex hides you from everyone. Sentinel shows what others don't hide.
-Both come from the same worldview.
+Privex hides you from everyone.
+Sentinel shows what others forget to hide.
 
-Open source is how I learned — reading other people's public code at 3AM
-until patterns made sense. Trying to give that back.
+Same worldview. Different tools.
+
+Open source is how I learned to code.
+Reading public repos at 3AM until the patterns made sense.
+Paying that forward.
 ```
 
----
+<br/>
 
 ### `> stack`
 
@@ -59,19 +66,18 @@ until patterns made sense. Trying to give that back.
 ![After Effects](https://img.shields.io/badge/After+Effects-0d1117?style=flat-square&logo=adobeaftereffects&logoColor=67e8f9)
 ![Blender](https://img.shields.io/badge/Blender-0d1117?style=flat-square&logo=blender&logoColor=67e8f9)
 
----
+<br/>
 
 ### `> stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Privex-chat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e&icon_color=67e8f9&hide_rank=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Privex-chat&langs_count=6&layout=compact&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Privex-chat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e&icon_color=67e8f9&hide_rank=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Privex-chat&langs_count=6&layout=compact&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e" />
 
 </div>
 
----
+<br/>
 
 ### `> reach`
 
@@ -80,4 +86,8 @@ until patterns made sense. Trying to give that back.
 [![youtube](https://img.shields.io/badge/SonixAEP-0d1117?style=flat-square&logo=youtube&logoColor=67e8f9)](https://www.youtube.com/@SonixAEP)
 [![x](https://img.shields.io/badge/@6ft3sonix-0d1117?style=flat-square&logo=x&logoColor=67e8f9)](https://x.com/6ft3sonix)
 
-<sub>replies may be slow — probably debugging something at 3AM</sub>
+<br/>
+
+<div align="center">
+<sub>probably debugging something at 3AM</sub>
+</div>
