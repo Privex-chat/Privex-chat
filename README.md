@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&random=false&width=650&lines=building+Privex.+zero+knowledge+comms.;solo+dev+%40+IIT+Madras;privacy+tools.+surveillance+tools.+both.;shipping+real+products+since+age+16" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&random=false&width=650&lines=building+Privex.+zero+knowledge+comms.;solo+dev;privacy+tools.+surveillance+tools.+both.;shipping+real+products+since+age+16" alt="typing" />
 
 <br/>
 
