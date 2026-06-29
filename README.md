@@ -58,14 +58,19 @@ Paying that forward.
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=67e8f9)
 ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=67e8f9)
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=67e8f9)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-0d1117?style=flat-square&logo=webassembly&logoColor=67e8f9)
 ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=67e8f9)
-![Embedded](https://img.shields.io/badge/Embedded-0d1117?style=flat-square&logo=platformio&logoColor=67e8f9)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-0d1117?style=flat-square&logo=platformio&logoColor=67e8f9)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=67e8f9)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=67e8f9)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=67e8f9)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=67e8f9)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=67e8f9)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=67e8f9)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=67e8f9)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=67e8f9)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=67e8f9)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-0d1117?style=flat-square&logoColor=67e8f9)
 ![After Effects](https://img.shields.io/badge/After+Effects-0d1117?style=flat-square&logo=adobeaftereffects&logoColor=67e8f9)
 ![Blender](https://img.shields.io/badge/Blender-0d1117?style=flat-square&logo=blender&logoColor=67e8f9)
 
@@ -75,8 +80,11 @@ Paying that forward.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Privex-chat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e&icon_color=67e8f9&hide_rank=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Privex-chat&langs_count=6&layout=compact&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Privex-chat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e&icon_color=67e8f9&hide_rank=true&count_private=true&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Privex-chat&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Privex-chat&bg_color=0d1117&color=8b949e&line=67e8f9&point=67e8f9&area=true&hide_border=true" />
 
 </div>
 
@@ -85,9 +93,10 @@ Paying that forward.
 ### `> reach`
 
 [![dataship.xyz](https://img.shields.io/badge/dataship.xyz-0d1117?style=flat-square&logo=icloud&logoColor=67e8f9)](https://dataship.xyz)
-[![instagram](https://img.shields.io/badge/@sonix.aep-0d1117?style=flat-square&logo=instagram&logoColor=67e8f9)](https://www.instagram.com/sonix.aep/)
-[![youtube](https://img.shields.io/badge/SonixAEP-0d1117?style=flat-square&logo=youtube&logoColor=67e8f9)](https://www.youtube.com/@SonixAEP)
-[![x](https://img.shields.io/badge/@6ft3sonix-0d1117?style=flat-square&logo=x&logoColor=67e8f9)](https://x.com/6ft3sonix)
+[![linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/sonixaep/)
+[![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sonix.aep/)
+[![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SonixAEP)
+[![x](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/6ft3sonix)
 
 <br/>
 
