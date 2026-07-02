@@ -80,9 +80,9 @@ Paying that forward.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Privex-chat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e&icon_color=67e8f9&hide_rank=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats-indol-beta-56.vercel.app/api?username=Privex-chat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e&icon_color=67e8f9&hide_rank=true&count_private=true&include_all_commits=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Privex-chat&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e" />
+<img height="165" src="https://github-readme-stats-indol-beta-56.vercel.app/api/top-langs/?username=Privex-chat&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Privex-chat&bg_color=0d1117&color=8b949e&line=67e8f9&point=67e8f9&area=true&hide_border=true" />
 
