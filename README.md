@@ -86,6 +86,8 @@ Paying that forward.
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Privex-chat&bg_color=0d1117&color=8b949e&line=67e8f9&point=67e8f9&area=true&hide_border=true" />
 
+<img width="100%" src="https://raw.githubusercontent.com/Privex-chat/Privex-chat/output/snake-dark.svg" alt="GitHub Contribution Snake" />
+
 </div>
 
 <br/>
