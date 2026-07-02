@@ -92,13 +92,17 @@ Paying that forward.
 
 <br/>
 
-### `> reach`
+### `> contact`
+
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:privexchat@gmail.com)
+[![linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/sonixaep/)
+[![x](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/6ft3sonix)
+
+### `> socials`
 
 [![dataship.xyz](https://img.shields.io/badge/dataship.xyz-0d1117?style=flat-square&logo=icloud&logoColor=67e8f9)](https://dataship.xyz)
-[![linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/sonixaep/)
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sonix.aep/)
 [![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SonixAEP)
-[![x](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/6ft3sonix)
 
 <br/>
 
