@@ -80,6 +80,10 @@ Paying that forward.
 
 <div align="center">
 
+[![Play Snake on my Contributions](https://img.shields.io/badge/🕹️_Play_Snake_on_my_Contributions-0d1117?style=for-the-badge&logo=github&logoColor=67e8f9)](https://privex-chat.github.io/)
+
+<br/>
+
 <img height="165" src="https://privex-chat-stats.vercel.app/api?username=Privex-chat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e&icon_color=67e8f9&hide_rank=true&count_private=true&include_all_commits=true" />
 
 <img height="165" src="https://privex-chat-stats.vercel.app/api/top-langs/?username=Privex-chat&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=8b949e" />

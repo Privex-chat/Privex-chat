@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privex-chat | Contribution Snake</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>building <span class="highlight">Privex.</span> zero knowledge comms.</h1>
+            <p>Play Snake on my GitHub contributions</p>
+        </header>
+
+        <div class="game-container">
+            <!-- The game grid will be generated here -->
+            <div id="grid" class="grid"></div>
+            
+            <div class="overlay" id="overlay">
+                <div class="overlay-content">
+                    <h2 id="overlay-title">Ready?</h2>
+                    <p id="overlay-text">Use Arrow Keys or WASD to move.</p>
+                    <button id="start-btn">Start Game</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="stats">
+                <div>Score: <span id="score" class="highlight">0</span></div>
+                <div>High Score: <span id="high-score" class="highlight">0</span></div>
+            </div>
+            
+            <div class="legend">
+                <span>Less</span>
+                <div class="legend-color" style="background-color: var(--color-bg)"></div>
+                <div class="legend-color" style="background-color: var(--color-level-1)"></div>
+                <div class="legend-color" style="background-color: var(--color-level-2)"></div>
+                <div class="legend-color" style="background-color: var(--color-level-3)"></div>
+                <div class="legend-color" style="background-color: var(--color-level-4)"></div>
+                <span>More</span>
+            </div>
+        </div>
+        
+        <footer>
+            <a href="https://github.com/Privex-chat" class="back-link">← Back to Profile</a>
+        </footer>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>

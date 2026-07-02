@@ -12,7 +12,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Privex-chat
-          outputs: dist/snake-dark.svg?palette=github-dark
+          outputs: dist/snake-dark.svg?color_snake=#67e8f9&color_dots=#161b22,#07373f,#0f6975,#1cb3c8,#67e8f9
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
