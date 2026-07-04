@@ -14,7 +14,7 @@
 
 ```
 host         Hemansh (Sonix)  ·  India  ·  18
-school       IIT Madras, Computer Science
+school       IIT Madras, Data Science
 building     Privex  ·  Dataship.xyz  ·  Sentinel
 origin       coding since 11. no bootcamp. public repos and curiosity.
 now          cryptography, privacy infrastructure, full stack.
