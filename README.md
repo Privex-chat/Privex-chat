@@ -28,7 +28,7 @@ also         VFX and video editing. After Effects. Blender. AMVs.
 | project | what | stack | status |
 |---|---|---|---|
 | [**Privex**](https://github.com/Privex-chat/Privex) | zero knowledge E2EE. not just encrypted. undetectable. | Rust · TypeScript · Nym · PQC | `in development` |
-| [**Dataship.xyz**](https://dataship.xyz) | encrypted cloud storage. 30GB free. 40K LOC, built solo in 3 months. | Node.js · React · AES-256 | `live · paying users` |
+| [**Dataship.xyz**](https://dataship.xyz) | encrypted cloud storage. 30GB free. 70K LOC, built solo in 3 months. | Node.js · React · AES-256 | `live · paying users` |
 | [**Sentinel**](https://github.com/Privex-chat/sentinel) | self-hosted Discord intelligence and behavioral analytics | TypeScript · Discord.js | `live` |
 | [**Audyn**](https://github.com/Privex-chat/audyn) | real-time multiplayer music guessing platform | JavaScript · WebSockets | `live` |
 
