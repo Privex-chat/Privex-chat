@@ -53,26 +53,28 @@ Paying that forward.
 
 ### `> stack`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=67e8f9)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=67e8f9)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=67e8f9)
-![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=67e8f9)
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=67e8f9)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-0d1117?style=flat-square&logo=webassembly&logoColor=67e8f9)
-![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=67e8f9)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-0d1117?style=flat-square&logo=platformio&logoColor=67e8f9)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=67e8f9)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=67e8f9)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=67e8f9)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=67e8f9)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=67e8f9)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=67e8f9)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=67e8f9)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=67e8f9)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=67e8f9)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-0d1117?style=flat-square&logoColor=67e8f9)
-![After Effects](https://img.shields.io/badge/After+Effects-0d1117?style=flat-square&logo=adobeaftereffects&logoColor=67e8f9)
-![Blender](https://img.shields.io/badge/Blender-0d1117?style=flat-square&logo=blender&logoColor=67e8f9)
+### Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+
+### Frameworks & Runtime
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?logo=tauri&logoColor=black)
+![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+
+### Data & Infra
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
 
 <br/>
 
